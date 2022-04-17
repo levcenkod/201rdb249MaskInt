@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "201RDB249_1prakt/1.0.0": {
+        "runtime": {
+          "201RDB249_1prakt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "201RDB249_1prakt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
